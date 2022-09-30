@@ -1,13 +1,4 @@
-# def greet(name):
-#     """
-#     This function greets to
-#     the person passed in as
-#     a parameter
-#     """
-#     print("Hello, " + name + ". Good morning!")
-
-# greet('Paul')
-
+# this code was written bt me and my ream mate today
 def createListContent():
     innerList = []
     innerContent = None
